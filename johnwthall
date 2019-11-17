@@ -2,13 +2,12 @@
   "basics": {
     "name": "John Hall",
     "label": "Systems Analyst",
-    "picture": "",
-    "email": "johnhallwt@gmail.com",
-    "phone": "(650) 380-3120",
+    "email": "johnXXXXXX@gmail.com",
+    "phone": "(650) 380-XXXX",
     "website": "https://www.linkedin.com/in/johnwthall/",
     "summary": "John Hall is an Assistant Vice President at State Street Global Exchange (SSGX) on the Client Solutions & Implementation team - tasked with the responsibility of spearheading the design and implementation of the financial industry’s first Front-to-Back-Office Asset Management Solution--State Street Alpha. John serves as the subject matter expert in Derivatives Processing, Collateral Management, and Transaction Management.",
     "location": {
-      "address": "838 E Broadway",
+      "address": "Boston",
       "postalCode": "MA 02127",
       "city": "Boston",
       "countryCode": "US",
@@ -25,16 +24,15 @@
     "position": "Assistance Vice President",
     "website": "http://www.statestreet.com/solutions/by-capability/ssgx.html",
     "startDate": "2019-12-10",
-    "endDate": "Current Position",
-    "summary": "•Responsible for designing solutions and onboarding new clients onto State Street’s front-to-back platform—State Street Alpha.
-•Lead workflow analysis, data analysis, requirements analysis for current and future state models and architecture.
-•Spearhead creation and delivery of internal and client facing on-boarding documents (client proposals, playbooks, resource and governance models, cost and revenue models).
-•Navigate complex client relationships, build strong business relationships and manage expectations with client stakeholders.
-•Configure platform UX for client-specific workflows, with an additional focus on Derivative and Collateral Management.
-•Manage various stages of the on-boarding lifecycle (solution design, integration and testing, implementation and BAU hand over
-•Support business development and sales efforts through consultative client engagement and as needed",
+    "summary": "Workstream Lead for Derivatives Processing, Collateral Management, and Transaction Management",
     "highlights": [
-      "Workstream Lead for Derivatives Processing, Collateral Management, and Transaction Management"
+      "Responsible for designing solutions and onboarding new clients onto State Street’s front-to-back platform (State Street Alpha)",
+      "Lead workflow analysis, data analysis, requirements analysis for current and future state models and architecture",
+      "Spearhead creation and delivery of internal and client facing on-boarding documents (client proposals, playbooks, resource and governance models, cost and revenue models)",
+      "Navigate complex client relationships, build strong business relationships and manage expectations with client stakeholders",
+      "Configure platform UX for client-specific workflows, with an additional focus on Derivative and Collateral Management",
+      "Manage various stages of the on-boarding lifecycle (solution design, integration and testing, implementation and BAU hand over",
+      "Support business development and sales efforts through consultative client engagement and as needed"
     ]
   }],
   "volunteer": [{
@@ -42,7 +40,6 @@
     "position": "Strategic Advisor",
     "website": "https://www.innercityweightlifting.org/",
     "startDate": "2019-09-01",
-    "endDate": "Current Position",
     "summary": "As a Strategic Advisor for InnerCity Weightlifting, John has committed to providing skills-based volunteering efforts to ICW’s Corporate Business Development Strategy. This includes contributing guidance and analysis to ICW as the organization researches market opportunities, crafts its strategy, and plans for resource allocation to operational use the strategy.",
     "highlights": [
       "Currently launching the organization's Corporate Partnership strategy"
@@ -53,11 +50,7 @@
     "area": "Economics",
     "studyType": "Bachelor",
     "startDate": "2007-09-01",
-    "endDate": "2012-05-01",
-    "gpa": "2.3",
-    "courses": [
-      ""
-    ]
+    "gpa": "2.3"
   }],
   "awards": [{
     "title": "John B. Simpson Award",
@@ -70,7 +63,7 @@
     "level": "Intermediate",
     "keywords": [
       "Excel",
-      "SQL",
+      "SQL"
     ]
   }],
   "languages": [{
@@ -82,13 +75,12 @@
     "keywords": [
       "Ukelele",
       "Drums",
-      "Boxing"
+      "Boxing",
       "Wrestling"
     ]
   }],
   "references": [{
     "name": "Caiti Zeytoonian",
-    "reference": "Reference..."
+    "reference": "John is a total hunk. You should definitely hire him."
   }]
 }
-
